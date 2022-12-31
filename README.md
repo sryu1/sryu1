@@ -1,3 +1,7 @@
+# sryu1
+
+Hi! I like programming with python and have in interest in AI and Aviation 😁
+
 ![](https://komarev.com/ghpvc/?username=sryu1&color=brightgreen)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sryu1&show_icons=true&theme=algolia&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
