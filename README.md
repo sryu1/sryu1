@@ -4,4 +4,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sryu1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/sryu1/sryu1/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/sryu1/sryu1/sryu1/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/sryu1/sryu1/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/sryu1/sryu1/github-contribution-grid-snake.svg#gh-light-mode-only)
