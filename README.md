@@ -1,6 +1,6 @@
 # sryu1
 
-Hi! I like programming with python and have in interest in AI and Aviation 😁
+Hi! I'm interested in programming in Python and Aritifical Intelligence and Aviation 😁
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sryu1&show_icons=true&theme=algolia&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sryu1&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
