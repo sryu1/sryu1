@@ -20,8 +20,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v3
-        with:
-          cache: yarn
           node-version: 20
       - run: yarn install --frozen-lockfile
 
@@ -71,8 +69,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v3
-        with:
-          cache: yarn
           node-version: 20
       - run: yarn install --frozen-lockfile
 
@@ -111,8 +107,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v3
-        with:
-          cache: yarn
           node-version: 20
       - run: yarn install --frozen-lockfile
 
