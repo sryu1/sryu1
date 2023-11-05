@@ -1,4 +1,4 @@
-0# sryu1
+# sryu1
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sryu1&show_icons=true&theme=algolia&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sryu1&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
